@@ -1,0 +1,1 @@
+export AIRFLOW_HOME=/Users/heps/Desktop/Gigz/software/gigz-s-airflow/local/airflow-db-cleanup
